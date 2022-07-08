@@ -16,10 +16,10 @@ before you start make sure you have this in your computer
 <sub>
  - You can Pull branch master in this Repository
  - after you pull change brance and create your branch in your computer, syntac:
-  - git clone // this link repository
-  - cd your folder
-  - git branch // to check your branch
-  - git checkout -b [your name branch]
+ - git clone // this link repository
+ - cd your folder
+ - git branch // to check your branch
+ - git checkout -b [your name branch]
  - after that you can finiis the task
 </sub>
 
@@ -54,10 +54,11 @@ description task:
 </sub>
 
 ## How To Submit Test
+this is how you submit test
 <sub>
  - on branch [your create before]
  - git add .
- - git commit -m "[your message]"
+ - git commit -m [your message]
  - git push origin [your branch]
 </sub>
 
