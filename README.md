@@ -13,6 +13,7 @@ before you start make sure you have this in your computer
 
 
 ## Before you go
+Please read this instruction before you start doing
 <sub>
  - You can Pull branch master in this Repository
  - after you pull change brance and create your branch in your computer, syntac:
@@ -46,6 +47,7 @@ description task:
 
 
 ## Rule
+This is rule for you in this task
 <sub>
  - duration Task is one week 
  - after one week we discuss and giving feeback
@@ -64,6 +66,7 @@ this is how you submit test
 
 
 ## Contributor
+this is Person who invonveld in this repository
 <sub>
  - Giofanny Mowoka
  - Nurahman
