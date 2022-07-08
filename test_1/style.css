@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.title{
+    margin-top: -180px;
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 80px;
+    color: #fff;
+}
+
+._section-Search{
+    margin-top: 18%;
+}
+
+._button{
+    height: 46px;
+    margin-left:  20px;
+    padding: 0px 25px;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius:8px;
+}
+
+._contact-panel{
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
